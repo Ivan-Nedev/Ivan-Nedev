@@ -1,16 +1,27 @@
-## Hi there 👋
+# 🍃 Ivan Nedev
 
-<!--
-**Ivan-Nedev/Ivan-Nedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Studying Informatics with a focus on Java backend development.
+Passionate about identifying problems, understanding them deeply, and turning ideas into reliable software solutions.
+Currently strengthening **Java Core** skills while exploring **Spring Boot** and its surrounding ecosystem.
 
-Here are some ideas to get you started:
+🚀 Currently focused on:
+- Improving Java Core
+- Spring Boot & REST APIs
+- Databases & System Design
+- GitHub projects & portfolio building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Languages and Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" title="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="42" title="Spring Boot"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" title="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" title="GitHub"/>
+</p>
+
+---
+
