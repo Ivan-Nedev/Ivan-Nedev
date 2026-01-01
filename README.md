@@ -16,15 +16,15 @@ Currently strengthening **Java Core** skills while exploring **Spring Boot** and
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-       width="32" style="margin-right:12px;" title="Java"/>
+       width="32" style="margin-right:20px;" title="Java"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
-       width="32" style="margin-right:12px;" title="Spring Boot"/>
+       width="32" style="margin-right:20px;" title="Spring Boot"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
-       width="32" style="margin-right:12px;" title="PostgreSQL"/>
+       width="32" style="margin-right:20px;" title="PostgreSQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
-       width="32" style="margin-right:12px;" title="MySQL"/>
+       width="32" style="margin-right:20px;" title="MySQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-       width="32" style="margin-right:12px;" title="Git"/>
+       width="32" style="margin-right:20px;" title="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-       width="32" style="margin-right:12px;" title="GitHub"/>
+       width="32" style="margin-right:20px;" title="GitHub"/>
 </p>
